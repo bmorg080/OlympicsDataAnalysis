@@ -1,5 +1,6 @@
 -- The olympics_history table conatains data from Athens in 1896 to Rio in 2016.
 -- Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events).
+-- Data condensed to fit GitHub's file size limitations
 -- From https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results. Data scraped  
 -- from http://www.sports-reference.com/ in May 2018.
 
